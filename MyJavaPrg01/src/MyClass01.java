@@ -8,6 +8,7 @@ public class MyClass01 {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Heelo,Java!");
 		System.out.println(args[0]);
+		//コメント追加しました
 	}
 
 }
