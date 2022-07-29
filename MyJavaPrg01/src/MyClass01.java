@@ -2,7 +2,7 @@
 public class MyClass01 {
 
 	/**
-	 * @param args
+	 * @param args 引数の説明入れました（forReview）
 	 */
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
