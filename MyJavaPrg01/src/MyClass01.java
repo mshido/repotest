@@ -9,6 +9,7 @@ public class MyClass01 {
 		System.out.println("Heelo,Java!");
 		System.out.println(args[0]);
 		//コメント追加しました
+		//さらにコメントを追加2022/07/29
 	}
 
 }
