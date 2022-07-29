@@ -10,6 +10,7 @@ public class MyClass01 {
 		System.out.println(args[0]);
 		//コメント追加しました
 		//さらにコメントを追加2022/07/29
+		//新しいブランチで行を追加しました。
 	}
 
 }
